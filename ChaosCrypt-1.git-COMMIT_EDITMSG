@@ -1,0 +1,16 @@
+Assistant checkpoint: Add credits link to navigation bars
+
+Assistant generated file changes:
+- templates/home.html: Add credits link to nav
+- templates/encrypt.html: Add credits link to nav
+- templates/decrypt.html: Add credits link to nav
+- templates/how_it_works.html: Add credits link to nav
+
+---
+
+User prompt:
+
+Icqnt find the entire credits page, I can't see the butt9n that directs me to it
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 39b33084-42dc-433a-a68d-2c0bad8ee754
